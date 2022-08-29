@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cerise@gmail.com
+	name = Cerise Prost
